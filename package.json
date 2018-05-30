@@ -1,0 +1,14 @@
+{
+  "name": "kiyoungchoi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://kiyoungchoi:chl7936@github.com/kiyoungchoi/githubtest.git",
+  "author": "kiyoungchoi <kaist6123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \"node dist/index.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^1.0.21"
+  }
+}
